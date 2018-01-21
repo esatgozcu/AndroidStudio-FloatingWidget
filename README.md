@@ -1,3 +1,3 @@
 # AndroidStudio-FloatingWidget
 
-How To Use : http://www.esatgozcu.com/download/messenger-chat-baloncugu-gibi-floating-widget-olusturmaresimler 
+How To Use : http://www.esatgozcu.com/android-studio/android-studio-floating-widget-olusturma
